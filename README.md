@@ -1,3 +1,5 @@
+![Banner do Projeto](./assets/banner.png)
+
 # Dashboard de Vendas do Xbox com Excel
 
 Este projeto consiste em um dashboard interativo desenvolvido no Excel para análise de vendas do Xbox. Ele foi projetado para fornecer insights detalhados sobre o desempenho de vendas, tendências e métricas importantes, utilizando gráficos e tabelas dinâmicas.
